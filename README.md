@@ -110,5 +110,3 @@ Obrigado por visitar meu perfil! Espero que encontre algo interessante por aqui.
 
 ---
 
-_Este README.md foi gerado com a ajuda de uma IA para ser mais profissional, interativo e tecnológico._
-
