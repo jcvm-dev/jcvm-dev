@@ -1,112 +1,122 @@
-# Olá, eu sou Jefferson Monteiro 👋
-
-Sou um desenvolvedor apaixonado por tecnologia e inovação, com foco em criar soluções robustas e eficientes. Minha jornada na programação é impulsionada pela curiosidade e pelo desejo contínuo de aprender e aplicar novas ferramentas e conceitos.
-
-## Sobre Mim
-
-Atualmente, minhas principais áreas de interesse e atuação incluem:
-
-- **Desenvolvimento Backend:** Construção de APIs e sistemas escaláveis.
-- **Automação e DevOps:** Otimização de fluxos de trabalho e implantação contínua.
-- **Análise de Dados:** Transformação de dados em insights acionáveis.
-
-Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos que gerem impacto real.
-
-## Estatísticas do GitHub
-
-<div>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jcvm-dev&show_icons=true&theme=tokyonight" />
-</div>
-
-
-
-
-## Tecnologias e Ferramentas
-
-Minhas principais tecnologias e ferramentas de trabalho incluem:
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░  ██╗███████╗███████╗███████╗███████╗██████╗ ███████╗░░
+░  ██║██╔════╝██╔════╝██╔════╝██╔════╝██╔══██╗██╔════╝░░
+░  ██║█████╗  █████╗  █████╗  █████╗  ██████╔╝███████╗░░
+░  ██║██╔══╝  ██╔══╝  ██╔══╝  ██╔══╝  ██╔══██╗╚════██║░░
+░  ██║██║     ██║     ███████╗███████╗██║  ██║███████║░░
+░  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+# Jefferson Monteiro
+
+### `< Backend Developer />` · `{ DevOps Enthusiast }` · `[ Data Analyst ]`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Construindo+APIs+que+escalam+%F0%9F%9A%80;Automatizando+o+que+pode+ser+automatizado+%E2%9A%99%EF%B8%8F;Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
 </div>
-
-
-
-
-## Conecte-se Comigo
-
-Estou sempre aberto a novas conexões e colaborações. Sinta-se à vontade para me contatar através das minhas redes sociais:
-
-<div align="center">
-  <a href="https://www.instagram.com/jcvm.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jcvm-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="jeffesoncarvalho10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/5574991143668" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
-
-
-
-
-## Atividade Recente
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jcvm-dev/jcvm-dev/output/snake.svg" alt="Snake animation" />
-
-
-## Contribuições
-
-Sinta-se à vontade para explorar meus repositórios, abrir issues, sugerir melhorias ou enviar pull requests. Toda contribuição é bem-vinda!
-
-
-
-
-## Agradecimento
-
-Obrigado por visitar meu perfil! Espero que encontre algo interessante por aqui. Se tiver alguma dúvida ou quiser discutir sobre tecnologia, não hesite em entrar em contato.
 
 ---
 
+## 👨‍💻 Sobre Mim
+
+Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em criar soluções robustas e eficientes. Minha jornada na programação é impulsionada pela curiosidade e pelo desejo contínuo de aprender — do código ao deploy, do dado à decisão.
+
+```python
+class Jefferson:
+    def __init__(self):
+        self.name       = "Jefferson Monteiro"
+        self.role       = "Backend Developer"
+        self.location   = "Brasil 🇧🇷"
+        self.focus      = ["APIs escaláveis", "Automação", "Análise de Dados"]
+        self.stack      = ["Java", "Python", "Go", "Spring", "FastAPI", "Docker"]
+        self.databases  = ["PostgreSQL", "MySQL", "MongoDB", "Redis"]
+        self.currently  = "Construindo coisas que importam 🚀"
+
+    def __str__(self):
+        return f"{self.name} | {self.role}"
+```
+
+---
+
+## 🚀 Stack Principal
+
+<div align="center">
+
+#### 💻 Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+#### 🔧 Frameworks & Ferramentas
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### 🗄️ Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### 🛠️ IDEs & Plataformas
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jcvm-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jcvm-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcvm-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jcvm-dev/jcvm-dev/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🤝 Vamos Conversar?
+
+Estou sempre aberto a novas conexões, colaborações e oportunidades desafiadoras.
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jcvm.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcvm-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffesoncarvalho10@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5574991143668)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=jcvm-dev&color=00D9FF&style=flat-square&label=Visitantes+no+perfil)
+
+**"O código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista de heurísticas."** — *Robert C. Martin*
+
+⭐ Se algum repositório foi útil, considere deixar uma estrela!
+
+</div>
