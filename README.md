@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-BUILDING-black?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2B%20AUTOMATION-black?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/USER-jcvm--dev-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MODE-REAL%20PROBLEMS-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WORKFLOW-PRAGMATIC-black?style=for-the-badge" />
 </p>
@@ -13,62 +14,37 @@
 
 ## Sobre mim
 
-<img align="left" src="assets/brain.png" width="180" />
+<img align="left" src="assets/brain.png" width="180" style="margin-right: 20px;" />
 
-Desenvolvedor backend em Juazeiro/BA, estudante de Ciência da Computação.
+Sou desenvolvedor focado em **backend e automação**.
 
 Trabalho transformando problemas reais em soluções simples:
-APIs, automações e sistemas que eliminam tarefas repetitivas.
+scripts, APIs, bots e sistemas que eliminam tarefas repetitivas.
 
-Não curto complexidade desnecessária — prefiro código que:
+Não curto complexidade desnecessária prefiro código que:
 - resolve
 - é legível
 - e dá pra evoluir sem dor
 
+<br>
+
 **Regra pessoal:**
 > Se algo é repetitivo e leva mais de alguns minutos por dia, vale automatizar.
 
-<br clear="left" />
+<div style="clear: both;"></div>
 
 ---
 
-## O que estou construindo
+## O que estou focando agora
 
-<img align="right" src="assets/magnifier.png" width="180" />
+<img align="right" src="assets/magnifier.png" width="180" style="margin-left: 20px;" />
 
-**[Qual a Boa Vale](https://github.com/jcvm-dev/qab-api)** — guia de entretenimento
-do Vale do São Francisco. FastAPI + PostgreSQL, app Flutter e painel React.
-`qab-api` · `qab-mobile` · `qab-admin` · `qab-infra`
+- Construir sistemas **que realmente são usados**
+- Evoluir arquitetura backend (**modular, simples e escalável**)
+- Melhorar automações sem virar código caótico
+- Criar soluções que economizem tempo (meu e de outras pessoas)
 
-**[LeadCo](https://github.com/jcvm-dev/leadco)** — CRM comercial multi-tenant.
-Java 21, Spring Boot 3.5, PostgreSQL, Redis.
-
-**[Collmeia](https://github.com/jcvm-dev/collmeia)** — plataforma de agendamento
-para estúdio de tatuagem. Python + Docker Compose.
-
-<br clear="right" />
-
----
-
-## Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis" />
-  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
-</p>
-
-<p align="center">
-  <sub>
-  Também trabalho com Node.js, Flutter, MySQL, Oracle, Jenkins, GitLab CI e REST/SOAP.
-  </sub>
-</p>
+<div style="clear: both;"></div>
 
 ---
 
@@ -78,10 +54,62 @@ para estúdio de tatuagem. Python + Docker Compose.
 
 ---
 
+## Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+</p>
+
+### Backend & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/REST-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOAP-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microserviços-000?style=for-the-badge" />
+</p>
+
+### Banco de Dados
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis" />
+  <img src="https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle" />
+  <img src="https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver" />
+</p>
+
+### DevOps & Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=jenkins" />
+  <img src="https://img.shields.io/badge/GitLab_CI-000?style=for-the-badge&logo=gitlab" />
+  <img src="https://img.shields.io/badge/Maven-000?style=for-the-badge&logo=apachemaven" />
+  <img src="https://img.shields.io/badge/Tomcat-000?style=for-the-badge&logo=apachetomcat" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+</p>
+
+### AI/ML & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-000?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=langchain" />
+  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas" />
+</p>
+
+---
+
 ## Contato
 
 <p align="center">
-  <a href="https://jcvm.site">jcvm.site</a> ·
-  <a href="https://www.linkedin.com/in/jcvm-dev/">LinkedIn</a> ·
-  <a href="mailto:jeffesoncarvalho10@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/jcvm-dev/">LinkedIn</a>
+
 </p>
